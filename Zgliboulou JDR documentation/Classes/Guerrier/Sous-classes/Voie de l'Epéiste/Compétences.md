@@ -1,0 +1,7 @@
+
+| Niveau | Nom                        | Effet                                                                                                                                                                       | Durée  | Cooldown | Coût |
+| ------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- | ---- |
+| 4      | Parade                     | Le personnage peut effectuer un jet de dextérité (DD = attaque) pour parer des attaques de corps à corps. A chaque attaque parée d'affilée, le DD augmente de 5.            | Inst   | X        | X    |
+| 6      | Parade de projectile       | Le personnage peut parer les projectiles physiques.                                                                                                                         | Inst   | X        | X    |
+| 8      | Goûts affinés              | Les jets d'attaque du personnage effectués avec une arme de prédilection gagnent +5. Cependant, vous ne pouvez choisir que des armes de finesse comme arme de prédilection. | Passif | X        | X    |
+| 12     | Utilisation fine de l'aura | Les sens affutés du personnages lui permettent une utilisation précise de l'aura. Le joueur peut désormais renvoyer les projectiles                                         |        |          |      |
