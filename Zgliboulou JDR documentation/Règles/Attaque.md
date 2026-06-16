@@ -1,0 +1,3 @@
+Quand un personnage souhaite attaquer une créature, il lance un d20 et ajoute au résultat son modificateur correspondant, qui dépend de l'arme. Si il fait 1, le joueur fait un **échec critique**. Son attaque rate, et elle a des conséquences négatives (libres au MJ). Si il fait 20, c'est un **succès critique** : l'attaque réussit forcément et ses dégâts sont doublés. Si le score atteint ou dépasse le score nécessaire (qui dépend du monstre), l'attaque touche.
+
+ Règle optionnelle : sur un crit, maxroll + dégâts normaux (au lieu de dégâts x2)
