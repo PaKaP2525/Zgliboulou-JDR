@@ -3,4 +3,4 @@ Le coeur de la classe est la capacité **Rage**, qui donne des buffs au personna
 
 Caractéristique principale : Force
 Dé de PV : 1d12 
-Dé d'EP : 1 (1d1)
+Dé d'EP : 1
