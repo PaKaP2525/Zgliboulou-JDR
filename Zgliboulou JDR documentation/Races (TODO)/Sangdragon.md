@@ -1,3 +1,3 @@
 Description : Descendants des dragons ancestraux, les sangdragons sont l'espèce la plus diverse en terme de couleurs. Il existe 6 couleurs de sangdragons : Rouge (Feu), Bleu (Eau), Vert (Vent), Marron (Terre), Noir (Obscurité) et Doré (Saint). Il existe également des sangdragons albinos blancs.
 
-Particularité raciale : Selon la couleur du sangdragon, ils gagnent une résistance à l'élément associé, ainsi que +2 sur les jets d'attaque de l'élément correspondant. Les albinos résistent aux dégâts physiques (tranchant, perçant, impact), mais n'ont pas de bonus d'attaque.
+Particularité raciale : Selon la couleur du sangdragon, ils gagnent une résistance à l'élément associé, ainsi que +2 sur les jets d'attaque de l'élément correspondant. Les albinos résistent aux dégâts physiques (tranchant, perçant, impact) et un bonus d'attaque de +2 aux armes physiques, mais sont vulnérables aux dégâts magiques.

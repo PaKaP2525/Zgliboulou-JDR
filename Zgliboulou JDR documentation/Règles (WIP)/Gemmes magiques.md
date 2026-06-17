@@ -1,0 +1,1 @@
+Tout au long de votre aventure, vous pourrez trouver des gemmes qui donnent des capacités, souvent étranges où à double tranchant, aux armes et armures sur lesquelles elles sont équipées. Il est possible d’en apprendre les effets sans les tester, mais cela demande un haut niveau de compétence en magie (ou aller voir un spécialiste)

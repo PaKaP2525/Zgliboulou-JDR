@@ -1,0 +1,1 @@
+Libre aux MJs d'inventer et de donner aux joueurs des objets magiques aux effets étranges et inexpliquables. Ces objets sont un très bon moyen de faire plaisir aux joueurs, même si ils ne servent à rien ; par contre, attention aux objets niches, ils seront très vite exploités par les joueurs pour éviscérer toute sorte de problème avec un combo ultra broken.

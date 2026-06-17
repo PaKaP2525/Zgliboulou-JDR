@@ -1,0 +1,3 @@
+Pour créer un personnage, choisissez une race, puis une classe. Inventez un background (de préférence intégrée dans monde de Zgliboulou), et les caractéristiques physiques et mentales de votre personnage. Donnez lui un objectif, ça aide pour la campagne.
+
+Puis, prenez 4d4 (on reroll les 1 une fois) et prenez les 3 résultats les plus élevés ; répartissez-les dans 3 stats (positives) de votre choix. Attention, ce choix est définitif. De même, prenez 4d4 (on reroll les 4 une fois), prenez les 3 résultats les plus bas, et assignez-les dans les 3 stats restantes (en négatif).
