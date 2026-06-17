@@ -1,0 +1,2 @@
+Cette sous-classe du Mage se focalise sur les magies occultes. Elle est associées avec des mages d'alignement mauvais, mais elle ne s'y limite pas ; ce n'est qu'un outil, après tout.
+Cette classe abandonne la défense pour se concentrer sur l'attaque et le CC.

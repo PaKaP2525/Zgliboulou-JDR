@@ -1,0 +1,1 @@
+Cette sous-classe du Druide tourne autour des sorts naturels, et de la manipulation des plantes. Sa ressource principale devient le Mana. Elle est incompatibles avec les classes martiales pures.

@@ -1,0 +1,1 @@
+Cette sous-classe du Mage utilise les forces élémentaires pour combattre. C'est une classe axée sur l'attaque et la défense, ainsi que l'utilité.

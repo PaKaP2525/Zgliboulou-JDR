@@ -1,0 +1,1 @@
+Cette sous-classe du Druide tourne autour de l'apprivoisement de créatures et de leur utilisation en combat.
