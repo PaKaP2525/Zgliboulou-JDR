@@ -3,8 +3,7 @@ Eau, Feu, Terre, Air
 Liste des autres formes d'énergie (Magiques):
 Sainte, Obscure, Vitale, Arcanique
 Liste des autres types de dégâts (Physiques):
-Taillade, Impact, Perçants, Véritables
-
+Tranchant, Impact, Perçant, Véritable
 
 Formule de coût des sorts :
 (coût de base - réductions) * (Mult. PE dégâts) * (Mult. PE taille)
