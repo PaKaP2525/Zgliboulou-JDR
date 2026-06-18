@@ -11,7 +11,5 @@ Liste des classes officielles (temporaire) :
 8) Clerc
 9) Paladin
 10) Mage
-11) Occultiste
-12) Nécromancien
 
-Les classes secondaires sont choisies au niveau 5 et permettent aux joueurs d'affiner leur manière de jouer et de multiplier leurs choix.
+Les classes secondaires sont choisies au niveau 4 et permettent aux joueurs d'affiner leur manière de jouer et de multiplier leurs choix.
