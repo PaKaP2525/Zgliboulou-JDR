@@ -1,3 +1,3 @@
 Description : Les orcs sont des créatures originellement conçues par un Nécromancien fou qui cherchait à créer les esclaves parfaits. Cependant, les orcs se sont rebellés et ont renversé le magicien fou, et sont désormais une race libre et nomade qui vit en tribu. Du fait de leur origine, ils sont particulièrement résistants, mais n'ont que très peu d'aptitudes pour la magie.
 
-Particularité raciale : la classe du dé de vie est augmentée, +1 FOR et -1 INT tous les 5 niveaux
+Parfaits esclaves : la classe du dé de vie est augmentée, +1 FOR et -1 INT tous les 5 niveaux

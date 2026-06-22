@@ -1,3 +1,3 @@
 Description : Amateurs de bière et de métaux précieux, les nains ressemblent de bien des manières à des fourmis. Sans parler de leur taille, ils possèdent une force surprenante et leur société fonctionne comme une machine bien huilée. Ils sont très chaleureux envers leurs amis, et d'autant plus féroces envers ceux qui leur font du mal. Ils détestent les elfes car ils les considèrent comme des snobs, tandis que ces derniers préfèrent les ignorer. Leur espérance de vie tourne autour des 500 ans.
 
-Particularité raciale : +1 en Force et Constitution tous les 5 niveaux
+Fils de la Montagne : +1 en Force et Constitution tous les 5 niveaux
