@@ -12,6 +12,11 @@ On ne peut monter une caractéristique que jusqu'à 10 + niveau du personnage ; 
 
 Il est possible pour un personnage d'avoir des niveaux dans plusieurs classes. Cependant, les classes secondaires coutent plus cher en XP, le niveau maximal cumulé est de 20 (il est possible de l'augmenter par un processus spécifique), et certaines classes ne sont pas compatibles entre elles (guerrier et mage, par exemple). On ne peut avoir qu'une seule sous-classe par classe.
 
+Si vous ne faites pas de level par XP mais par milestone, il est recommandé de :
+-soit mettre des stats minimum requises pour multiclasser
+-soit uniquement autoriser le multiclassage si cela a du sens en RP (aka, si le joueur obtient en sa possession un objets qui donne des pouvoirs magiques, il peut multiclasser mage, par exemple)
+(Vous pouvez faire les deux)
+
 Ci-contre le tableau d'XP nécessaire pour monter de niveau, avec les points de caractéristiques correspondants à chaque niveau :
 
 | Niveau | Points de Caractéristique | XP Requis (x2 classe secondaire, x3 classe tertiaire etc) |

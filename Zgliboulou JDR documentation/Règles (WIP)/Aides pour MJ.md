@@ -1,0 +1,26 @@
+Les personnages ont au maximum leur niveau + 10 dans une caractéristique donnée
+Points de caractéristiques en fonction du niveau (en classe principale) :
+
+| Niveau | Points de Caractéristique | Note                                                                                                                                                                                     |
+| ------ | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | 0                         |                                                                                                                                                                                          |
+| 2      | 2                         |                                                                                                                                                                                          |
+| 3      | 3                         |                                                                                                                                                                                          |
+| 4      | 4                         |                                                                                                                                                                                          |
+| 5      | 6                         |                                                                                                                                                                                          |
+| 6      | 8                         |                                                                                                                                                                                          |
+| 7      | 10                        |                                                                                                                                                                                          |
+| 8      | 12                        |                                                                                                                                                                                          |
+| 9      | 15                        |                                                                                                                                                                                          |
+| 10     | 18                        | Si on considère une stat de départ positive, et que le joueur ne monte que cette stat, il a au minimum 2+18 = 20 dans cette stat, ce qui est le maximum pour son niveau (level 10 + 10). |
+| 11     | 21                        |                                                                                                                                                                                          |
+| 12     | 24                        |                                                                                                                                                                                          |
+| 13     | 28                        |                                                                                                                                                                                          |
+| 14     | 32                        |                                                                                                                                                                                          |
+| 15     | 36                        |                                                                                                                                                                                          |
+| 16     | 40                        |                                                                                                                                                                                          |
+| 17     | 44                        |                                                                                                                                                                                          |
+| 18     | 48                        | Si le joueur est parti avec ses deux stats principales à 4, il maxe ici ces deux stats (48/2 + 4 = 28 = 18+10). Peut-être que la divinisation permettrais de monter le cap ?             |
+| 19     | 52                        |                                                                                                                                                                                          |
+| 20     | 56                        |                                                                                                                                                                                          |
+

@@ -1,4 +1,4 @@
-Il y a 6 caractéristiques :
+l y a 6 caractéristiques :
 
 Force : représentation numérique de la capacité d'un personnage à taper fort, soulever des trucs lourds, etc. Presque uniquement utilisée par les classes martiales. L'efficacité de certains équipements et certaines compétences dépendent de cette caractéristique.
 
