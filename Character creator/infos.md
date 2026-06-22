@@ -1,0 +1,1 @@
+This character creator has the objective of being able to create and progress a character.
