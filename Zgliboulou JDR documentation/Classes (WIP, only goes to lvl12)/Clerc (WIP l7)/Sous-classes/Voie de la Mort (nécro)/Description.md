@@ -1,0 +1,1 @@
+Cette sous-classe du prêtre se base sur l'art interdit de la nécromancie.
