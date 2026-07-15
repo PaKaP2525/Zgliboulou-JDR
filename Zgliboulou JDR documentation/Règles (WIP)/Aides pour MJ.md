@@ -1,7 +1,7 @@
 Les personnages ont au maximum leur niveau + 10 dans une caractéristique donnée
 Points de caractéristiques en fonction du niveau (en classe principale) :
 
-| Niveau | Points de Caractéristique | Note                                                                                                                                                                                     |
+| Niveau | Points de Caractéristique | Notes                                                                                                                                                                                    |
 | ------ | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | 0                         |                                                                                                                                                                                          |
 | 2      | 2                         |                                                                                                                                                                                          |
@@ -24,3 +24,4 @@ Points de caractéristiques en fonction du niveau (en classe principale) :
 | 19     | 52                        |                                                                                                                                                                                          |
 | 20     | 56                        |                                                                                                                                                                                          |
 
+On peut considérer que les bonus raciaux comptent dans le total puisque ce sont des points de caractéristique "intrinsèques", mais des items qui augmentent les stats non, puisque ce sont des points extérieurs. De même pour les points accordés par une compétence.

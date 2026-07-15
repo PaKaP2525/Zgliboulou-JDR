@@ -9,4 +9,6 @@ L'action rapide : similaire à l'action bonus, à la différence qu'on en a qu'u
 
 L'action de déplacement : comme son nom l'indique, c'est l'action qu'on utilise pour se déplacer. Elle peut parfois être remplacée par une autre action.
 
+La réaction : certaines actions peuvent être effectuées au tour de l'adversaire dans certaines conditions, comme esquiver ou bloquer une attaque.
+
 Si une compétence donne une action de plus, sauf contre-indication, on peut utiliser cette nouvelle action comme on veut.
