@@ -4,3 +4,5 @@ Caractéristique principale : Charisme
 Caractéristique secondaire : N'importe laquelle
 Dé de PV : 1d4
 Dé de PE : 1d4
+
+Il faut avoir +10 en Charisme pour multiclasser Barde.

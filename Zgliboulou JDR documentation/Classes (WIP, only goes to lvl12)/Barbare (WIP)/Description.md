@@ -5,3 +5,5 @@ Caractéristique principale : Force/
 Caractéristique secondaire : Constitution
 Dé de PV : 1d12 
 Dé de PE : 1
+
+Il faut avoir +10 en Force pour multiclasser Barbare.

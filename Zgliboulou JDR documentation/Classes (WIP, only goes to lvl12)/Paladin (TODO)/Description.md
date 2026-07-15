@@ -3,3 +3,5 @@ Le barde est une classe très particulière, qui inflige peut de dégâts direct
 Caractéristique principale : Charisme
 Dé de PV : 1d4
 Dé de PE : 1d4
+
+Il faut avoir +10 en ?? pour multiclasser Paladin.

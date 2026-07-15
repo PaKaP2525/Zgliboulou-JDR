@@ -3,3 +3,5 @@ Le prêtre est principalement un healer, mais il utilise sa magie pour soutenir 
 Caractéristique principale : INT
 Dé de PV : d4
 Dé de PE : d8
+
+Il faut avoir +5 en Intelligence pour multiclasser Prêtre.
