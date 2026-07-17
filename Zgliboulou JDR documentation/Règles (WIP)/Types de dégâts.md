@@ -5,4 +5,4 @@ Liste des autres formes d'énergie (Magiques):
 Sainte, Obscure, Vitale, Arcanique
 
 Liste des autres types de dégâts (Physiques):
-Tranchant, Impact, Perçant, Véritable
+Tranchant, Contondant, Perçant, Véritable
