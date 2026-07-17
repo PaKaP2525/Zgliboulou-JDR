@@ -41,20 +41,3 @@ Ci-contre le tableau d'XP nécessaire pour monter de niveau, avec les points de 
 | 18     | 4                         | 250 000                                                   |
 | 19     | 4                         | 300 000                                                   |
 | 20     | 4                         | 350 000                                                   |
-
-Ci-contre le tableau de compatibilités inter-classes (cela reste indicatif) :
-
-| Classe                  | Barbare | Barde | Clerc | Druide | Guerrier | Mage | Moine | Paladin | Ranger | Voleur |
-| ----------------------- | ---------------------- | -------------------- | -------------------- | --------------------- | ----------------------- | ------------------- | -------------------- | ---------------------- | --------------------- | --------------------- |
-| Barbare  | X                      | P                    | N                    | P                     | O                       | N                   | P                    | N                      | N                     | N                     |
-| Barde    | P                      | X                    | P                    | P                     | N                       | N                   | N                    | N                      | N                     | N                     |
-| Clerc    | N                      | N                    | X                    | O                     | N                       | P                   | N                    | P                      | N                     | N                     |
-| Druide   | P                      | P                    | O                    | X                     | P                       | O                   | N                    | P                      | P                     | N                     |
-| Guerrier | O                      | N                    | N                    | P                     | X                       | N                   | P                    | O                      | P                     | N                     |
-| Mage     | N                      | N                    | P                    | O                     | N                       | X                   | N                    | P                      | N                     | N                     |
-| Moine    | P                      | N                    | N                    | N                     | P                       | N                   | X                    | N                      | P                     | P                     |
-| Paladin  | N                      | N                    | P                    | P                     | O                       | P                   | N                    | X                      | N                     | N                     |
-| Ranger   | N                      | N                    | N                    | P                     | P                       | N                   | P                    | N                      | X                     | O                     |
-| Voleur   | N                      | N                    | N                    | N                     | N                       | N                   | P                    | N                      | O                     | X                     |
-Une compatibilité "P" (Partielle) est expliquée par plusieurs facteurs : les stats principales ne sont pas les mêmes, le multiclass n'a aucun sens (Barbare/Clerc), les compétences ne synergisent pas...
-Libre aux joueurs d'essayer, cependant.
