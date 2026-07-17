@@ -1,3 +1,3 @@
-Cette sous-classe du Barde canalise le pouvoir de la musique au milieu du chaos du champ de bataille pour attribuer divers effets à ceux qui sont spectateurs de sa performance.
+Cette sous-classe du Roublard se focalise sur diférents aspects hors combat, donnant au personnage un rôle plus versatile et utilitaire
 
-Caractéristique principale : Charisme
+Caractéristique principale : Dexterité
