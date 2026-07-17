@@ -19,13 +19,14 @@ Prérequis d'utilisation : le niveau du personnage doit être égal à 2 * le ni
 **
 
 Formule de coût des sorts :
-(coût de base - réductions) * (Mult. PE dégâts) * (Mult. PE taille) * (Mult. PE durée)
+(coût de base - réductions) * (Somme des multiplicateurs des différents paramètres)
 
-| Multiplicateur de dégâts | Modificateur de taille (cases) | Multiplicateur de cout (PE) |
-| ------------------------ | ------------------------------ | --------------------------- |
-| 1                        | 0                              | 1                           |
-| 1.5                      | 1                              | 2                           |
-| X >= 2                   | X>2                            | 2^X                         |
+| Multiplicateur de dégâts | Modificateur de rayon/durée (cases/actions) | Multiplicateur de cout (PE) |
+| ------------------------ | ------------------------------------------- | --------------------------- |
+| 1                        | 1                                           | 1                           |
+| 1.5                      | 2                                           | 2                           |
+| X >= 2                   | X>2                                         | 2^X                         |
+
 
 Exemple : si un sort coûte 10 de base, que le personnage possède 30% de réduction de coût, qu'on multiplie ses dégâts par 4, et qu'on augmente son rayon de 3 cases, il va couter :                 (10 - 3) * 2^4 * 2^3 = 7 * 16 * 8 = 896 PE.
 
