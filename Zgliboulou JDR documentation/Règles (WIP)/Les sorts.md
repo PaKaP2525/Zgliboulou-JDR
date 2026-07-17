@@ -8,7 +8,8 @@ Protection : +3PE (Un sort de bouclier simple donnera (dégâts d'arme) points d
 Zone : +5PE (exemple : une boule de feu est considérée comme un sort de zone car elle touche dans un diamètre de 3x3)
 Wildcard : Pour tout autre effet et/ou négociation, consulter le MJ
 
-** systeme expérimental
+**
+systeme expérimental
 Soit importer un sort de DnD, avec évidemment des spells qui ont du sens, qui sont compatibles, avec la formule suivante :
 Coût = Niveau du spell * 10
 Dégâts : dégâts d'arme (pareil pour la protection)
