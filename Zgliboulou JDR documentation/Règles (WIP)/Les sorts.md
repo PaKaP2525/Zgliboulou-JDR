@@ -3,7 +3,7 @@ Soit créer un sort de toutes pièces, à partir des paramètre suivants :
 
 Dégâts : +3PE (Le spell fera les dégâts d'arme)
 Distance : +2PE (Le spell peut être lancé ; si un sort ne comporte pas ce composant le caster ne peut viser que lui-même ou les cibles qu'il peut toucher)
-Durée : +1PE (Le spell dure une action ; si un sort ne comporte pas ce composant ne peut être qu'instantané)
+Durée : +5PE (Le spell dure une action ; si un sort ne comporte pas ce composant ne peut être qu'instantané)
 CC : +2PE (exemple : un pic de glace est considéré comme du CC et pourra entraver les mouvements des créatures qu'il transperce)
 Protection : +3PE (Un sort de bouclier simple donnera (dégâts d'arme) points de protection)
 Zone : +5PE (exemple : une boule de feu est considérée comme un sort de zone car elle touche dans un diamètre de 3x3)
@@ -19,7 +19,7 @@ Prérequis d'utilisation : le niveau du personnage doit être égal à 2 * le ni
 **
 
 Formule de coût des sorts :
-(coût de base - réductions) * (Mult. PE dégâts) * (Mult. PE taille)
+(coût de base - réductions) * (Mult. PE dégâts) * (Mult. PE taille) * (Mult. PE durée)
 
 | Multiplicateur de dégâts | Modificateur de taille (cases) | Multiplicateur de cout (PE) |
 | ------------------------ | ------------------------------ | --------------------------- |
