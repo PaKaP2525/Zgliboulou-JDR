@@ -26,3 +26,7 @@ Formule de coût des sorts :
 | X >= 2                   | X>2                            | 2^X                         |
 
 Exemple : si un sort coûte 10 de base, que le personnage possède 30% de réduction de coût, qu'on multiplie ses dégâts par 4, et qu'on augmente son rayon de 3 cases, il va couter :                 (10 - 3) * 2^4 * 2^3 = 7 * 16 * 8 = 896 PE.
+
+Si un personnage n'a pas assez de PE pour caster un sort, il peut utiliser ses PV, à deux conditions :
+1) On est en combat
+2) Le personnage paye au moins la moitié du coût du sort avec des PE
