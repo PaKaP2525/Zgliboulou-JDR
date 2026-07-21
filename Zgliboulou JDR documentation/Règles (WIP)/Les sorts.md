@@ -25,26 +25,12 @@ Liste des métamagies
 | Sort sélectif           | Si le sort à une zone d'effet et est de durée instantanée, le personnage peut choisir INT/2 cibles qui ne seront pas affectée par ce dernier | 1      |
 | Sort transperçant       | Le sort fait double dégâts aux armures magiques                                                                                              | 1      |
 
-
-**
-systeme expérimental
-Soit importer un sort de DnD, avec évidemment des spells qui ont du sens, qui sont compatibles, avec la formule suivante :
-Coût = Niveau du spell * 10
-Dégâts : dégâts d'arme (pareil pour la protection)
-Prérequis d'utilisation : le niveau du personnage doit être égal à 2 * le niveau du spell
-==FAIRE APPROUVER PAR LE MJ AVANT TOUTE UTILISATION==
-**
-
 Formule de coût des sorts :
 (coût de base - réductions) * (Somme des multiplicateurs des différents paramètres)
 
-| Multiplicateur de dégâts | Modificateur de rayon/durée/métamagie (cases/actions/nb. points) | Multiplicateur de cout (PE) |
-| ------------------------ | ---------------------------------------------------------------- | --------------------------- |
-| 1                        | 1                                                                | 1                           |
-| 1.5                      | 2                                                                | 2                           |
-| X > 3                    | X > 2                                                            | 2^X                         |
+Si on veut multiplier les dégâts par X, ou augmenter le rayon de X cases, ou rajouter des modificateurs métamagiques qui valent X points, on rajoute 2^(X-1) au multiplicateur de coût (à condition que le sort comporte le paramètre nécessaire). On fait ça pour chaque paramètre ajouté au sort, puis on multiplie le coût de base du sort (réduit par d'éventuels objets ou compétences) par le multiplicateur final.
 
-Exemple : si un sort coûte 10 de base, que le personnage possède 30% de réduction de coût, qu'on multiplie ses dégâts par 4, et qu'on augmente son rayon de 3 cases, il va couter :                 (10 - 3) * 2^4 * 2^3 = 7 * 16 * 8 = 896 PE.
+Exemple : si un sort coûte 11PE (3+5+3) de base, que le personnage possède 30% de réduction de coût, qu'on multiplie ses dégâts par 4, qu'on augmente son rayon de 3 cases, et qu'on ajoute la métamagie "quintessence des sorts", le coût est : (11 * 0.7) * (2^3 + 2^2 + 2^2) = 123 PE.
 
 Si un personnage n'a pas assez de PE pour caster un sort, il peut utiliser ses PV, à deux conditions :
 1) On est en combat
