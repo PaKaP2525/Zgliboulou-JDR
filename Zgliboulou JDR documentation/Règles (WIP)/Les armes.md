@@ -1,4 +1,4 @@
-Certaines armes à une main sont utilisables deux par deux. Il est par exemple possible d'utiliser deux dagues. Attaquer avec une dague permet d'utiliser une action rapide pour attaquer avec la deuxième, mais ce n'est pas considéré comme la même action d'attaque.
+Certaines armes à une main sont utilisables deux par deux. Il est par exemple possible d'utiliser deux dagues. Attaquer avec une dague permet d'utiliser une action bonus pour attaquer avec la deuxième, mais ce n'est pas considéré comme la même action d'attaque.
 
 D'autres armes comme l'épée à une main ne permettent pas d'en utiliser deux, mais on peut utiliser un bouclier en même temps que l'épée.
 

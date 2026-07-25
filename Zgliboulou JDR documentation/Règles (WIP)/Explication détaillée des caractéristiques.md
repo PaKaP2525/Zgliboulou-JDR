@@ -1,4 +1,10 @@
-l y a 6 caractéristiques :
+Les caractéristiques sont des nombres qui quantifient les capacités de votre personnage. Plus une caractéristique est élevée, meilleur est votre personnage.
+
+Quand vous faites un jet de dés (d20) pour déterminer comment se passe une action que vous faites, vous ajoutez votre score de la caractéristique correspondante au résultat. Par exemple, si j’essaie de soulever un gros caillou et que j’ai +3 en force, je rajoute 3 au résultat du d20 (ce qui me permet de plus facilement soulever le caillou.
+
+Ces caractéristiques sont améliorables, notamment quand vous montez de niveau. 
+
+Il y a 6 caractéristiques.
 
 Force : représentation numérique de la capacité d'un personnage à taper fort, soulever des trucs lourds, etc. Presque uniquement utilisée par les classes martiales. L'efficacité de certains équipements et certaines compétences dépendent de cette caractéristique.
 

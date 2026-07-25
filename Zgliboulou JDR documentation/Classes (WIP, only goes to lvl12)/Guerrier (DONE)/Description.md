@@ -1,6 +1,5 @@
-Le guerrier est une classe <ins>martiale</ins> très "basique", et relativement polyvalente.
+Le guerrier est une classe martiale très "basique", et relativement polyvalente.
 Cependant, contrairement au guerrier de DnD, il se bat uniquement au corps à corps.
-Cette classe est incompatible avec les classes magiques pures.
 
 Caractéristique principale : Force/Dextérité (dépend de la sous-classe)
 Caractéristique secondaire : Constitution
