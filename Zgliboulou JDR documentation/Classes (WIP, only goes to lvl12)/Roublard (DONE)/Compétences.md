@@ -13,3 +13,11 @@
 | 10     | Empoisonneur              | Le personnage peut désormais utiliser son énergie pour créer divers poisons et potions ; il peut les mettre sur ses équipements par une action simple (ou hors combat).                                                                              | X      | 1 short rest | 10PE |
 | 11     |                           |                                                                                                                                                                                                                                                      |        |              |      |
 | 12     | Compétence de sous-classe | X                                                                                                                                                                                                                                                    | X      | X            | X    |
+| 13      | Doublard    | le Roublard crée un double indépendant, celui ci peut intéragir avec les objets mais ne possède pas ses capacités et a 1HP                    | X    | SR   | 10 PE/t |
+| 14      |             |       |    |    |    |
+| 15      | Switchard   | Le roublard peut maintenant échanger sa position avec le doublard (comme action rapide)     | X   | 2t   | 5 PE   |
+| 16      |             |       |    |    |    |
+| 17      |             |       |    |    |    |
+| 18      |             |       |    |    |    |
+| 19      |Roublard     | le Doublard a maintenant les capacités du Roublard       | X    | X   | X   |
+| 20      |             |      | X   | X   | X   |
